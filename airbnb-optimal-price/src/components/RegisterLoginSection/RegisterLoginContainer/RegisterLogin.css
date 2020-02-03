@@ -1,0 +1,6 @@
+.register-login-container {
+    width: 35%;
+    height: 100vh;
+    background-color: white;
+    z-index: 3;
+}
